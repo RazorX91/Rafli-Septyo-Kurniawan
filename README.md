@@ -3,58 +3,49 @@
 </h1>
 
 <h3 align="center">
-    🚀 A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.
+    🚀 A passionate Web Developer from Indonesia, skilled in creating modern and user-friendly digital platforms.
 </h3>
 
-<br/>
+---
 
+## 🌟 About Me
+- 🔭 Currently working on **a marketplace project**
+- 🌱 Learning **Docker & TypeScript**
+- 💬 Ask me about **JavaScript, Python, Web Development**
+- 🎯 Portfolio: [Visit Here](https://RazorX91.github.io/portfolio-personal/)
+- 😄 Fun fact: **Hot water freezes faster than cold water!** ❄️🔥
+
+---
+
+## 🚀 Tech Stack
 <div align="center">
-    🔭 I’m currently working on <strong>a marketplace</strong> <br/>
-    🌱 I’m currently learning <strong>Docker, Typescript</strong> <br/>
-    💬 Ask me about <strong>Javascript, Python</strong> or anything via <a href="https://github.com/RazorX91"><strong>Issues</strong></a> <br/>
-    😄 Fun fact: <strong>Hot Water Freezes Faster than Cold Water</strong> <br/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,git,github,vscode,figma,laravel" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,javascript,typescript,python,php,nextjs,mysql,mongodb,java,cpp" />
 </div>
 
-<br/>
+---
 
+## 📊 GitHub Stats
 <div align="center">
-    <img src="pixelard.gif" alt="Deskripsi GIF" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=RazorX91&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorX91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=RazorX91&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </div>
 
-<br/>
+---
 
-<div align="center">
+## 🎯 Let's Connect!
+<p align="center">
     <a href="mailto:azzikrapraqasta2@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/azzikra-praqasta-kusuma-198774271" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <a href="https://github.com/RazorX91">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡️ Languages, Frameworks, and Tools ⚡️</h2>
-<br/>
-<div align="center">
-         <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,git,github,vscode,figma,laravel" />
-    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,javascript,typescript,python,php,nextjs,mysql,mongodb,java,cpp" />
-</div>
-
-<br/>
-<br/>
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RazorX91&show_icons=true&theme=radical" alt="RazorX91's GitHub Stats" height="180em" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorX91&layout=compact&theme=radical" alt="RazorX91's Top Languages" height="180em" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=RazorX91&theme=radical&hide_border=true" alt="RazorX91's GitHub Streak" height="180em" />
-</div>
+    <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+    </a>
+</p>

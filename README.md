@@ -36,7 +36,7 @@
 
 ## 🎯 Let's Connect!
 <p align="center">
-    <a href="mailto:rafliseptyok03@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=rafliseptyok03@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/rafli-septyo-kurniawan-713362345" target="_blank">

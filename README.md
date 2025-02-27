@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="pixelart.gif" width="200px" alt="About Me Image">
+      <img src="" width="200px" alt="About Me Image">
     </td>
   </tr>
 </table>

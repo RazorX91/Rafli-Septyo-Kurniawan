@@ -27,21 +27,21 @@
 ---
 
 ## 🌟 About Me  
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li> 🔭 Currently working on <b>a marketplace project</b> </li>
-        <li> 🌱 Learning <b>Docker & TypeScript</b> </li>
-        <li> 💬 Ask me about <b>JavaScript, Python, Web Development</b> </li>
-        <li> 🎯 Portfolio: <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank"><b>Visit Here</b></a> </li>
-        <li> 😄 Fun fact: <b>Hot water freezes faster than cold water! ❄️🔥</b> </li>
-      </ul>
-    </td>
-    <td align="center">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table border="2" width="60%" align="center">
+    <tr>
+      <td>
+        <ul>
+          <li> 🔭 Currently working on <b>a marketplace project</b> </li>
+          <li> 🌱 Learning <b>Docker & TypeScript</b> </li>
+          <li> 💬 Ask me about <b>JavaScript, Python, Web Development</b> </li>
+          <li> 🎯 Portfolio: <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank"><b>Visit Here</b></a> </li>
+          <li> 😄 Fun fact: <b>Hot water freezes faster than cold water! ❄️🔥</b> </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 

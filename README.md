@@ -50,12 +50,4 @@
     </a>
 </p>
 
-<style>
-    p a img {
-        transition: transform 0.2s ease-in-out;
-    }
-    p a:hover img {
-        transform: scale(1.1);
-    }
-</style>
 

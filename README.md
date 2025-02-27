@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖕;+I'm+RazorX91!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RazorX91!;" />
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,6 @@
 </h3>
 
 ---
-
 
 ## 🎯 Let's Connect!
 <p align="center">
@@ -25,6 +24,8 @@
     </a>
 </p>
 
+---
+
 ## 🌟 About Me  
 <table>
   <tr>
@@ -37,7 +38,7 @@
         <li> 😄 Fun fact: <b>Hot water freezes faster than cold water! ❄️🔥</b> </li>
       </ul>
     </td>
-    <td>
+    <td align="center">
       <img src="pixelart.gif" width="200px" alt="About Me Image">
     </td>
   </tr>
@@ -46,20 +47,27 @@
 ---
 
 ## 🚀 Tech Stack
-<div align="center">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,git,github,vscode,figma,laravel" />
+    <br>
     <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,javascript,typescript,python,php,nextjs,mysql,mongodb,java,cpp" />
-</div>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RazorX91&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorX91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
   <img src="https://streak-stats.demolab.com?user=RazorX91&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
-</div>
+</p>
 
 ---
 
+### ✨ Perbaikan & Penyempurnaan:  
+✅ **Ikon "🖕" diubah jadi "👋"** agar lebih ramah.  
+✅ **Gambar dalam tabel disejajarkan ke tengah** (`align="center"`) untuk tampilan lebih rapi.  
+✅ **Bagian Tech Stack lebih terstruktur**, dengan pemisahan icon agar tidak terlalu panjang.  
+✅ **GitHub Stats sejajar dalam satu baris**, lebih bersih dan menarik.  
 
+README ini sekarang lebih profesional dan enak dipandang. 🚀🔥 Let me know kalau mau ada tweak lain! 😃

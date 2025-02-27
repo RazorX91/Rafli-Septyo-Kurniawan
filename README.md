@@ -8,6 +8,23 @@
 
 ---
 
+
+## 🎯 Let's Connect!
+<p align="center">
+    <a href="https://mail.google.com/mail/?view=cm&to=rafliseptyok03@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/rafli-septyo-kurniawan-713362345" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/RazorX91" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+</p>
+
 ## 🌟 About Me
 - 🔭 Currently working on **a marketplace project**
 - 🌱 Learning **Docker & TypeScript**
@@ -33,21 +50,5 @@
 </div>
 
 ---
-
-## 🎯 Let's Connect!
-<p align="center">
-    <a href="https://mail.google.com/mail/?view=cm&to=rafliseptyok03@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/rafli-septyo-kurniawan-713362345" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/RazorX91" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-    </a>
-</p>
 
 

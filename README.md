@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RazorX91!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🖕;+I'm+RazorX91!;" />
 </h1>
 
 <h3 align="center">
@@ -64,10 +64,4 @@
 
 ---
 
-### ✨ Perbaikan & Penyempurnaan:  
-✅ **Ikon "🖕" diubah jadi "👋"** agar lebih ramah.  
-✅ **Gambar dalam tabel disejajarkan ke tengah** (`align="center"`) untuk tampilan lebih rapi.  
-✅ **Bagian Tech Stack lebih terstruktur**, dengan pemisahan icon agar tidak terlalu panjang.  
-✅ **GitHub Stats sejajar dalam satu baris**, lebih bersih dan menarik.  
 
-README ini sekarang lebih profesional dan enak dipandang. 🚀🔥 Let me know kalau mau ada tweak lain! 😃

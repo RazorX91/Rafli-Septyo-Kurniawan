@@ -25,12 +25,23 @@
     </a>
 </p>
 
-## 🌟 About Me
-- 🔭 Currently working on **a marketplace project**
-- 🌱 Learning **Docker & TypeScript**
-- 💬 Ask me about **JavaScript, Python, Web Development**
-- 🎯 Portfolio: [Visit Here](https://RazorX91.github.io/portfolio-personal/)
-- 😄 Fun fact: **Hot water freezes faster than cold water!** ❄️🔥
+## 🌟 About Me  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li> 🔭 Currently working on <b>a marketplace project</b> </li>
+        <li> 🌱 Learning <b>Docker & TypeScript</b> </li>
+        <li> 💬 Ask me about <b>JavaScript, Python, Web Development</b> </li>
+        <li> 🎯 Portfolio: <a href="https://RazorX91.github.io/portfolio-personal/" target="_blank"><b>Visit Here</b></a> </li>
+        <li> 😄 Fun fact: <b>Hot water freezes faster than cold water! ❄️🔥</b> </li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://source.unsplash.com/200x200/?technology,programming" width="200px" alt="About Me Image">
+    </td>
+  </tr>
+</table>
 
 ---
 

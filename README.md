@@ -39,7 +39,6 @@
       </ul>
     </td>
     <td align="center">
-      <img src="" width="200px" alt="About Me Image">
     </td>
   </tr>
 </table>

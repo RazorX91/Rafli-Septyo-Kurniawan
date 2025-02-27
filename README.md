@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://source.unsplash.com/200x200/?technology,programming" width="200px" alt="About Me Image">
+      <img src="pixelart.gif" width="200px" alt="About Me Image">
     </td>
   </tr>
 </table>
